@@ -30,5 +30,3 @@ $ ruby test.rb
 あなたは未成年です(1)
 あなたは未成年です(2)
 ```
-
-git push origin master
